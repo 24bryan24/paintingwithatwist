@@ -9,7 +9,7 @@ const Home = () => {
         <Hero />
         <Grid />
         <Carousel />
-        <div className='w-full h-screen bg-slate-200 text-center'>Hello</div>
+        {/* <div className='w-full h-screen bg-slate-200 text-center'>Hello</div> */}
     </div>
   )
 }
